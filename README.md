@@ -1,5 +1,7 @@
 # Implement a 'lsof'-like program
 
+(spec from NYCU course **Advanced Programming in the UNIX Environment**)
+
 In this homework, you have to implement the 'lsof' tool by yourself. 'lsof' is a tool to list open files. It can be used to list all the files opened by processes running in the system. The output of your homework is required to follow the spec strictly. The TAs will use the 'diff' tool to compare your output directly against our prepared sample test data.
 
 ### Program Arguments
